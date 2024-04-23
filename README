@@ -6,6 +6,9 @@ CODE WILL BE REFACTORED WITH MY OWN CODE SOON
 Links have been provided indicating original authors below
 This was used for testing CV for a school project in CSCI 420 Edge Computing at W&M by Jordan Lee
 
+* yolo, coco, and video files are missing because of file upload issues. these resources can be found in authors repos
+* videos can be any mp4
+
 V1 Code:
 https://github.com/yashrajmani/OpenCV_Yolo3_Object_Detection-from-Video/tree/main
 https://python.plainenglish.io/object-detection-with-yolo-and-opencv-from-video-frames-a814f9b079d6
