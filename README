@@ -1,0 +1,18 @@
+Code that is not mine has had the author cited at the top of the code.
+These files were pulled from open source github repos for use in the initial testing of my OpenCV project.
+Some small tweaks have been made to the source code so that it runs correctly.
+CODE WILL BE REFACTORED WITH MY OWN CODE SOON
+
+Links have been provided indicating original authors below
+This was used for testing CV for a school project in CSCI 420 Edge Computing at W&M by Jordan Lee
+
+V1 Code:
+https://github.com/yashrajmani/OpenCV_Yolo3_Object_Detection-from-Video/tree/main
+https://python.plainenglish.io/object-detection-with-yolo-and-opencv-from-video-frames-a814f9b079d6
+
+V2 Code:
+https://github.com/sreegitp/yolov3
+https://medium.com/@vsreedharachari/practical-implementation-of-object-detection-on-video-with-opencv-and-yolo-v3-pre-trained-weights-a2d2995aac41
+
+V3 Code:
+https://github.com/shantamsultania/object_detection_using_yolo_in_video_and_webcam
